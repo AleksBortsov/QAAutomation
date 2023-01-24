@@ -1,2 +1,2 @@
-# QAAutomatization
-QA Automatization
+# QAAutomation
+QA Automation
